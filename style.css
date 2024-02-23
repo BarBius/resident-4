@@ -60,6 +60,7 @@ deb{
 .but:hover{
     background-color: white;
     color: orangered;
+    transition: 1s;
 
 }
 h3{
